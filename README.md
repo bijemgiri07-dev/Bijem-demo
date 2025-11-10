@@ -1,4 +1,4 @@
 # Bijem-demo
 This is my first Git repository
 <br>
-Author - Bijem giri
+Author - Bijem giri(Tirsan)
